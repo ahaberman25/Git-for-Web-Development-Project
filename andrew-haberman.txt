@@ -60,7 +60,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     28. How do I add a 1px border around my div that is dotted and black?
         • div {border: 1px dotted black;}
     29. How do I select everything on the page?
-        •  ctrl + a
+        •  * {}
     30. How do I write a comment in CSS?
         • /* */
     31. How do I find out what file I am in, when I am using the command line? 
